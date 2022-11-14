@@ -2,4 +2,4 @@
 
 # Create function arguments a.
 
-# Return the negative value of a.
+# Return the opposite value of a.

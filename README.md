@@ -52,7 +52,15 @@ Output: "codeschooluz"
 
 ```Python
 Input:
-Output: int: -1, 0, 1 ...
+Output (int): 1
+
+```
+
+**Example 2:**
+
+```Python
+Input:
+Output (int): -1
 
 ```
 
@@ -64,7 +72,14 @@ Output: int: -1, 0, 1 ...
 
 ```Python
 Input:
-Output: float: -1.0, 0.1, 0.2, 1.0 ...
+Output (float): 1.5
+```
+
+**Example 2:**
+
+```Python
+Input:
+Output (float): -2.4
 ```
 
 ## basic_func06
@@ -75,7 +90,15 @@ Output: float: -1.0, 0.1, 0.2, 1.0 ...
 
 ```Python
 Input:
-Output: str: "Hello World", "0", ...
+Output (str): "Hello World"
+
+```
+
+**Example 2:**
+
+```Python
+Input:
+Output (str): "0"
 
 ```
 
