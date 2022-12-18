@@ -3,4 +3,5 @@
 # Return the value 0
 def main():
     return 0
-print(main())
+x = main()
+print(x)
