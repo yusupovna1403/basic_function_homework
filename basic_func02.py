@@ -2,5 +2,5 @@
 
 # Return the value "Hello World"
 def main():
-    return "Hello world"
+    return "Hello World"
 print(main())
